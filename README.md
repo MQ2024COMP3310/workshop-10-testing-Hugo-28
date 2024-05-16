@@ -56,4 +56,5 @@ You can now browse to the url http://localhost:8001/ and you should see the home
 
 ![Welcome page](WelcomePage.jpg)
 
+Line for Merge Conflict - Daivik
 Line for merge conflict - Hugo
